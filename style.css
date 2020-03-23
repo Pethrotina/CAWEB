@@ -1,0 +1,35 @@
+/*
+ Theme Name:   Aagaz Startup Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Aagaz Startup Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     Aagaz-Startup
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  aagazstartupchild
+*/
+.site-footer {
+  background-color: #960000;
+color: #000;}
+
+.logo{
+	background-color:#ffffff;
+}
+.aboutbtn a:hover{
+    color: #D98C00;
+}
+
+.main-navigation ul li:hover > a {
+    background: #000;
+    color: #ffffff;
+}
+ul.sf-menu li.menu-item a{
+font-size:20px;
+}
+ul.sub-menu li.menu-item a{
+font-size:10px;
+}
+
